@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 My name is Khomsi Adam, I'm a Web Developper and Designer. Currently student at [@YouCode](https://twitter.com/YouCode18) Safi, Morocco.
 
@@ -22,7 +22,7 @@ My name is Khomsi Adam, I'm a Web Developper and Designer. Currently student at 
 </a>
 
 <!--
-Here are some ideas to get you started:
+Here are some ideas to get you started: 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
