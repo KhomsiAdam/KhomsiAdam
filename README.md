@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-My name is Khomsi Adam, I'm a Web Developper and Designer. Currently student at [@YouCode](https://twitter.com/YouCode18) Safi, Morocco.
+My name is Khomsi Adam, I'm a Web Developer and Designer. Currently student at [@YouCode](https://twitter.com/YouCode18) Safi, Morocco.
 
 <!--
 **KhomsiAdam/KhomsiAdam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
