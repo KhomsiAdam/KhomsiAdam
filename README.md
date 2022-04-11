@@ -1,11 +1,16 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Adam Khomsi</h1>
 
-My name is Adam Khomsi, I'm a Web & Mobile Fullstack Developer. Focusing on the MERN stack and currently student at [@YouCode](https://twitter.com/YouCode18) Safi, Morocco.
+I'm a TypeScript/JavaScript Developer. Focusing on the MERN stack and currently learning Next.js, GraphQL, React Native.
+Student at [@YouCode](https://twitter.com/YouCode18) Safi, Morocco.
+
+<p height="30px">- 📫 How to reach me:</p>
+<a href="https://www.linkedin.com/in/adamkhomsi/"><img width="30px" height="30px" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+<a href="mailto:khomsiadam@gmail.com"><img width="30px" height="30px" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
 
 <!--
 **KhomsiAdam/KhomsiAdam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<a href="https://www.linkedin.com/in/adamkhomsi/">
+<!-- <a href="https://www.linkedin.com/in/adamkhomsi/">
   <img align="left" alt="Adam Khomsi LinkedIN" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>
 </a>
 
@@ -19,16 +24,16 @@ My name is Adam Khomsi, I'm a Web & Mobile Fullstack Developer. Focusing on the 
 
 <a href="https://www.facebook.com/adam.khomsi/">
   <img align="left" alt="Adam Khomsi Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg"/>
-</a>
+</a> -->
+<!-- - 🌱 I’m currently learning Next.js, GraphQL, React Native -->
 
-<!--
-Here are some ideas to get you started: 👋
+<!-- Here are some ideas to get you started: 👋
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Next.js, GraphQL, React Native
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
