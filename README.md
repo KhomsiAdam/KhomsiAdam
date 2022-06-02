@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Adam Khomsi</h1>
+<h1 align="center">Hi, I'm Adam Khomsi</h1>
 
 I'm a TypeScript/JavaScript Developer. Focusing on the MERN stack and currently learning Next.js, GraphQL, React Native.
 Student at [@YouCode](https://twitter.com/YouCode18) Safi, Morocco.
