@@ -1,11 +1,18 @@
 <h1 align="center">Hi, I'm Adam Khomsi</h1>
 
-I'm a TypeScript/JavaScript Developer. Focusing on the MERN stack and currently learning Next.js, GraphQL, React Native.
-Student at [@YouCode](https://twitter.com/YouCode18) Safi, Morocco.
-
-<p height="30px">- 📫 How to reach me:</p>
-<a href="https://www.linkedin.com/in/adamkhomsi/"><img width="30px" height="30px" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-<a href="mailto:khomsiadam@gmail.com"><img width="30px" height="30px" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+<p align=center>
+I'm a Full Stack Developer with over 2 years of experience. I mainly specialize in the JavaScript ecosystem.
+</p>
+<p align=center>
+Passionate about software development/engineering and eager to getting to work on new projects or to explore new technologies.
+</p>
+<p align=center>
+Excited about opportunities where I'm able to work with experienced and highly creative people<br>to further learn and grow as a developer/engineer.
+</p>
+<p height="30px" align=center>- How to reach me:</p>
+<p align=center>
+<a href="mailto:khomsiadam@gmail.com"><img width="30px" height="30px" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a> <a href="https://www.linkedin.com/in/adamkhomsi/"><img width="30px" height="30px" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+</p>
 
 <!--
 **KhomsiAdam/KhomsiAdam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
