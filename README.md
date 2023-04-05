@@ -4,10 +4,10 @@
 I'm a Full Stack Developer with over 2 years of experience. I mainly specialize in the JavaScript ecosystem.
 </p>
 <p align=center>
-Passionate about software development/engineering and eager to getting to work on new projects or to explore new technologies.
+Passionate about software development, eager to work on new projects and to explore new technologies.
 </p>
 <p align=center>
-Excited about opportunities where I'm able to work with experienced and highly creative people<br>to further learn and grow as a developer/engineer.
+Excited about opportunities where I'm able to work with experienced and creative people to further learn and grow as an engineer.
 </p>
 <p height="30px" align=center>- How to reach me:</p>
 <p align=center>
