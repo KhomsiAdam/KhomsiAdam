@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Adam Khomsi</h1>
 
 <p align=center>
-I'm a Full Stack Developer with over 2 years of experience. I mainly specialize in the JavaScript ecosystem.
+I'm a Full Stack Developer with over 3 years of experience. I mainly specialize in the JavaScript ecosystem.
 </p>
 <p align=center>
 Passionate about software development, eager to work on new projects and to explore new technologies.
